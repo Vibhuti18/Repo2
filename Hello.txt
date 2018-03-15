@@ -1,3 +1,0 @@
-Hi 
-This is the first hello
-This is the second hello by branch 1
